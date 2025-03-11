@@ -1,0 +1,3 @@
+-dontwarn com.facebook.imagepipeline.nativecode.WebpTranscoder
+-keep class com.facebook.imagepipeline.nativecode.WebpTranscoder { *; }
+-keep class com.facebook.imagepipeline.nativecode.WebpTranscoderImpl { *; }
